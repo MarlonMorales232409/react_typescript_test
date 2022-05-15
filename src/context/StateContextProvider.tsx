@@ -51,7 +51,7 @@ export const StateContextProvider = ({ children }: ContextProviderInterface) => 
 
     } else {
 
-      return alert('A publish must to have a Title and a Message')
+      return alert('A publication has to have a Title and a Message')
     }
 
 
